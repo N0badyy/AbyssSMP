@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " RN",
+    " NS",
+    "S  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "eclipse:scythe_handle"
+  }
+}
